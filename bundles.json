@@ -162,12 +162,12 @@
         "pkg": "com.jiuyan.lib.core.imageprocessor",
         "type": "lib"
       }
-    ],
-    "updates": [
-      {
-        "pkg": "com.jiuyan.lib.in.delegate",
-        "url": "https://github.com/xufan/atlas/raw/master/libcom_jiuyan_lib_in_delegate.so"
-      }
     ]
-  }
+  },
+  "updates": [
+    {
+      "pkg": "com.jiuyan.lib.in.delegate",
+      "url": "https://github.com/xufan/atlas/raw/master/libcom_jiuyan_lib_in_delegate.so"
+    }
+  ]
 }
