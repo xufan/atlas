@@ -167,7 +167,8 @@
   "updates": [
     {
       "pkg": "com.jiuyan.lib.in.delegate",
-      "url": "https://github.com/xufan/atlas/raw/master/libcom_jiuyan_lib_in_delegate.so"
+      "url": "libcom_jiuyan_lib_in_delegate_new_patch.patch",
+      "version": "2.0"
     }
   ]
 }
